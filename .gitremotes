@@ -1,0 +1,3 @@
+[remote "upstream"]
+	url = https://github.com/devfile-samples/devfile-sample-python-basic.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
